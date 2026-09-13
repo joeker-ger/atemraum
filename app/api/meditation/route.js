@@ -34,12 +34,6 @@ Aufgabe:
 "Beobachte",
 "Nimm wahr".
 
-- Verwende stattdessen:
-"Du kannst ...",
-"Du darfst ...",
-"Es kann sein ...",
-"Vielleicht taucht die Frage auf ...",
-
 - Verbinde die Situation mit Gottes Gegenwart, ohne zu predigen.
 - Lade zu einer stillen Zeit ein.
 - Schließe mit einem kurzen Gebet und Amen.
