@@ -56,7 +56,33 @@ export async function POST(request) {
       model: "gpt-4o-mini-tts",
       voice: "marin",
       input: meditation,
-      instructions: "Sprich auf Deutsch mit warmer, ruhiger, natürlicher Stimme. Langsam und seelsorglich, nicht werblich und nicht dozierend. Nutze die Absatzgrenzen für deutliche, natürliche Pausen. Betone sparsam. Sprich das Gebet besonders ruhig und lass den letzten Satz sanft ausklingen.",
+      instructions: `
+Sprich auf Deutsch.
+
+Sehr langsam.
+Sehr ruhig.
+Warm und menschlich.
+
+Nach jedem Absatz eine deutliche Pause.
+
+Nach jeder Reflexionsfrage mindestens drei Sekunden Stille.
+
+Lass Gedanken nachklingen.
+
+Sprich wie eine erfahrene geistliche Begleiterin.
+
+Nicht belehrend.
+Nicht werblich.
+Nicht coachend.
+
+Nutze lange Atempausen.
+
+Zwischen wichtigen Gedanken bewusst Stille zulassen.
+
+Das Gebet besonders ruhig sprechen.
+
+Den letzten Satz langsam ausklingen lassen.
+`
       response_format: "mp3"
     });
 
