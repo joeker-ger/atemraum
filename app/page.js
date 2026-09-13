@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 
 const examples = {
-  single: "Ich bin aufgeregt, weil das Wochenende vor der Tür steht.",
+  single: "Ich bin erschöpft. Die Woche war anstrengend und ich finde nur schwer zur Ruhe.",
   group: "Wir sind in der Team-Übergabe, haben wenig Zeit und viele schwierige Situationen im Kopf."
 };
 
