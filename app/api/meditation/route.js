@@ -103,7 +103,7 @@ Nicht jede Zeile gleich betonen.
 Das Gebet besonders ruhig sprechen.
 
 Den letzten Satz sehr langsam ausklingen lassen.
-`
+`,
       response_format: "mp3"
     });
 
