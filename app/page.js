@@ -3,8 +3,8 @@
 import { useEffect, useRef, useState } from "react";
 
 const examples = {
-  single: "Ich bin erschöpft. Die Woche war anstrengend und ich finde nur schwer zur Ruhe.",
-  group: "Wir sind in der Team-Übergabe, haben wenig Zeit und viele schwierige Situationen im Kopf."
+  single: "Ich möchte einen Moment zur Ruhe kommen. Was heute war, beschäftigt mich noch.",
+  group: "Wir sind in der Team-Übergabe. Manche Situationen wirken noch nach. Wir möchten gemeinsam für einige Minuten innehalten."
 };
 
 export default function Home() {
@@ -143,7 +143,7 @@ export default function Home() {
   </span>
 </div>
         <h1>In Gottes Gegenwart<br />zur Ruhe kommen</h1>
-        <p className="intro">Ein persönlicher Moment für Menschen, die im Diakoniewerk leben und arbeiten.</p>
+        <p className="intro">Ein persönlicher Moment für Menschen, die im Diakoniewerk arbeiten.</p>
 
         {!meditating ? (
           <>
