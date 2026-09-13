@@ -23,6 +23,23 @@ Aufgabe:
 - Jeder wichtige Gedanke bekommt einen eigenen Absatz.
 - Deute die beschriebene Situation behutsam und konkret.
 - Formuliere 2 bis 4 offene Reflexionsfragen.
+- Nach jeder Reflexionsfrage einen eigenen Absatz erzeugen.
+- Wichtige Gedanken immer in eigene Absätze stellen.
+- Kurze Sätze bevorzugen.
+- Zwischen den Absätzen soll hörbar Raum zum Nachdenken entstehen.
+- Meditation lebt von Stille, nicht von vielen Worten.
+- Vermeide Formulierungen wie:
+"Denke nach",
+"Spüre",
+"Beobachte",
+"Nimm wahr".
+
+- Verwende stattdessen:
+"Vielleicht ...",
+"Es kann sein ...",
+"Vielleicht taucht die Frage auf ...",
+"Vielleicht magst du einen Augenblick bei diesem Gedanken bleiben ..."
+
 - Verbinde die Situation mit Gottes Gegenwart, ohne zu predigen.
 - Lade zu einer stillen Zeit ein.
 - Schließe mit einem kurzen Gebet und Amen.
@@ -62,29 +79,30 @@ export async function POST(request) {
       instructions: `
 Sprich auf Deutsch.
 
-Sehr langsam.
+Langsam.
 Sehr ruhig.
 Warm und menschlich.
-
-Nach jedem Absatz eine deutliche Pause.
-
-Nach jeder Reflexionsfrage mindestens drei Sekunden Stille.
-
-Lass Gedanken nachklingen.
+Mit natürlicher und lebendiger Sprachmelodie.
 
 Sprich wie eine erfahrene geistliche Begleiterin.
 
-Nicht belehrend.
-Nicht werblich.
 Nicht coachend.
+Nicht dozierend.
+Nicht werblich.
 
-Nutze lange Atempausen.
+Lass Gedanken nachklingen.
 
-Zwischen wichtigen Gedanken bewusst Stille zulassen.
+Nach jeder Reflexionsfrage eine deutliche Sprechpause.
+
+Zwischen Absätzen mehrere Sekunden Stille zulassen.
+
+Wichtige Gedanken etwas langsamer sprechen.
+
+Nicht jede Zeile gleich betonen.
 
 Das Gebet besonders ruhig sprechen.
 
-Den letzten Satz langsam ausklingen lassen.
+Den letzten Satz sehr langsam ausklingen lassen.
 `
       response_format: "mp3"
     });
