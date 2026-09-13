@@ -35,10 +35,10 @@ Aufgabe:
 "Nimm wahr".
 
 - Verwende stattdessen:
-"Vielleicht ...",
+"Du kannst ...",
+"Du darfst ...",
 "Es kann sein ...",
 "Vielleicht taucht die Frage auf ...",
-"Vielleicht magst du einen Augenblick bei diesem Gedanken bleiben ..."
 
 - Verbinde die Situation mit Gottes Gegenwart, ohne zu predigen.
 - Lade zu einer stillen Zeit ein.
@@ -92,7 +92,7 @@ Nicht werblich.
 
 Lass Gedanken nachklingen.
 
-Nach jeder Reflexionsfrage eine deutliche Sprechpause.
+Nach jeder Reflexionsfrage eine deutliche Sprechpause von 8 Sekunden.
 
 Zwischen Absätzen mehrere Sekunden Stille zulassen.
 
