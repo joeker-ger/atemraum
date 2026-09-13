@@ -126,7 +126,22 @@ export default function Home() {
   return (
     <main className="shell">
       <section className="card">
-        <div className="brand">ATEMRAUM · TESTVERSION v0.1</div>
+        <div className="brand">
+  ATEMRAUM · TESTVERSION v0.1
+  <br />
+  <span
+    style={{
+      fontSize: "11px",
+      letterSpacing: ".08em",
+      opacity: 0.8,
+      fontWeight: 400
+    }}
+  >
+    Ein Projekt von Joachim Kretschmar
+    <br />
+    für das Diakoniewerk Kropp
+  </span>
+</div>
         <h1>In Gottes Gegenwart<br />zur Ruhe kommen</h1>
         <p className="intro">Ein persönlicher Moment für Menschen, die im Diakoniewerk leben und arbeiten.</p>
 
